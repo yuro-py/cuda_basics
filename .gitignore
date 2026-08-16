@@ -1,0 +1,31 @@
+# Compiled CUDA/C++ binaries
+run
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+a.out
+
+# CUDA intermediate/build artifacts
+*.ptx
+*.cubin
+*.fatbin
+*.i
+*.ii
+*.gpu
+*.stub.c
+*.stub.h
+
+# Debug/profiling
+*.pdb
+*.nvvp
+*.nsys-rep
+*.sqlite
+
+# OS/editor junk
+.DS_Store
+*.swp
+.vscode/
+.idea/
