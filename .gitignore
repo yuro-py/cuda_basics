@@ -29,3 +29,5 @@ a.out
 *.swp
 .vscode/
 .idea/
+
+HelloWorld.cu
